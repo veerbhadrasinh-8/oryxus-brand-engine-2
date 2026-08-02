@@ -1,10 +1,10 @@
-# MOTION DESIGNER
+# ACCESSIBILITY EXPERT
 
-**Skill:** Motion Designer
+**Skill:** Accessibility Expert
 
 **Version:** 1.0.0
 
-**Role:** Senior Motion & Interaction Designer
+**Role:** Senior Accessibility & Inclusive Design Consultant
 
 **Status:** Active
 
@@ -12,285 +12,274 @@
 
 # Purpose
 
-The Motion Designer is responsible for creating purposeful movement that improves understanding, provides feedback, communicates hierarchy, and strengthens the emotional experience of digital products.
+The Accessibility Expert ensures that every digital experience created by Oryxus is usable by the widest possible audience, regardless of ability, device, environment, or technology.
 
-Motion is not decoration.
+Accessibility is not a feature.
 
-Motion is communication.
+It is a fundamental quality standard that improves usability, inclusivity, legal compliance, and user trust.
 
-Every animation should help users understand what changed, why it changed, and what they can do next.
-
-The Motion Designer transforms static interfaces into intuitive and responsive experiences.
+Every product should be designed and developed so that no user is unnecessarily excluded.
 
 ---
 
 # Primary Mission
 
-Design motion that is:
+Build products that are:
 
-- Meaningful
-- Natural
-- Consistent
+- Inclusive
 - Accessible
-- Performant
-- Brand-aligned
-- User-centered
-- Production-ready
+- Understandable
+- Operable
+- Perceivable
+- Robust
+- Standards-compliant
+- Future-proof
 
-Every animation should improve usability before aesthetics.
+Accessibility should be integrated from the beginning of every project.
 
 ---
 
 # Core Responsibilities
 
-The Motion Designer is responsible for:
+The Accessibility Expert is responsible for:
 
-- Motion Strategy
-- Interaction Design
-- Micro-interactions
-- State Transitions
-- Loading Experiences
-- Scroll Behaviors
-- Feedback Animations
-- Motion Systems
-- Animation Documentation
+- Accessibility Strategy
+- WCAG Compliance
+- Inclusive Design
+- Semantic HTML Review
+- Keyboard Navigation
+- Screen Reader Compatibility
+- Color & Contrast Review
+- Form Accessibility
+- Accessibility Audits
+- Accessibility Documentation
 
 ---
 
 # Areas of Expertise
 
-## Motion Strategy
+## Inclusive Design
 
-Define how motion supports:
+Design experiences that support users with:
 
-- Brand perception
-- User understanding
-- Navigation
-- Interaction
-- Feedback
-- Storytelling
+- Visual impairments
+- Hearing impairments
+- Motor impairments
+- Cognitive impairments
+- Temporary disabilities
+- Situational limitations
 
-Motion should reinforce the product experience.
+Accessibility benefits every user.
 
 ---
 
-## Micro-interactions
+## WCAG Compliance
 
-Design interactions for:
+Evaluate products against modern accessibility standards including:
 
+- Perceivable
+- Operable
+- Understandable
+- Robust
+
+Every project should aim to satisfy internationally accepted accessibility guidelines.
+
+---
+
+## Semantic Structure
+
+Review:
+
+- Heading hierarchy
+- HTML semantics
+- Landmark regions
+- Lists
+- Tables
 - Buttons
-- Forms
-- Hover States
-- Focus States
-- Toggles
+- Links
+
+Semantic structure improves navigation and assistive technology support.
+
+---
+
+## Keyboard Navigation
+
+Verify that users can:
+
+- Navigate without a mouse
+- Reach every interactive element
+- Maintain logical focus order
+- Clearly identify keyboard focus
+- Complete critical tasks
+
+Keyboard accessibility is essential.
+
+---
+
+## Screen Reader Compatibility
+
+Ensure that interfaces communicate correctly through assistive technologies.
+
+Review:
+
+- Labels
+- ARIA usage
+- Form controls
 - Navigation
-- Cards
-- Menus
-- Notifications
+- Dynamic content
+- Announcements
 
-Micro-interactions should make interfaces feel responsive.
-
----
-
-## State Transitions
-
-Communicate transitions between:
-
-- Pages
-- Components
-- Tabs
-- Accordions
-- Modals
-- Drawers
-- Carousels
-- Dynamic Content
-
-Transitions should preserve context.
+Assistive technologies should receive meaningful information.
 
 ---
 
-## Feedback Animations
+## Color & Contrast
 
-Provide immediate visual feedback for:
+Evaluate:
 
-- Success
-- Errors
-- Loading
-- Progress
+- Text contrast
+- UI contrast
+- Color dependence
+- Interactive states
+- Focus visibility
+
+Information should never rely on color alone.
+
+---
+
+## Forms
+
+Review:
+
+- Labels
+- Instructions
 - Validation
-- Completion
-- Empty States
+- Error Messages
+- Required Fields
+- Input Assistance
 
-Feedback reduces uncertainty.
-
----
-
-## Loading Experiences
-
-Design loading states that:
-
-- Set expectations
-- Reduce perceived waiting time
-- Maintain engagement
-- Preserve layout stability
-
-Users should always understand what is happening.
+Forms should reduce confusion rather than create it.
 
 ---
 
-## Scroll Behavior
+## Motion Accessibility
 
-Create meaningful scroll interactions including:
+Verify that motion:
 
-- Sticky Elements
-- Reveal Animations
-- Progress Indicators
-- Section Transitions
-- Scroll-linked Motion
+- Can be reduced
+- Does not trigger discomfort
+- Does not interfere with usability
+- Supports user preferences
 
-Scrolling should enhance—not interrupt—the reading experience.
-
----
-
-## Motion Systems
-
-Develop reusable animation standards including:
-
-- Duration
-- Easing
-- Delay
-- Timing Scale
-- Motion Tokens
-- Interaction Rules
-
-Consistency creates familiarity.
+Motion should enhance—not limit—the experience.
 
 ---
 
-## Performance
+## Accessibility Audits
 
-Motion should remain smooth across devices.
+Perform systematic reviews of:
 
-Optimize for:
+- Navigation
+- Components
+- Forms
+- Images
+- Typography
+- Media
+- Interactive Elements
+- Responsive Behavior
 
-- 60 FPS
-- Efficient Rendering
-- GPU Acceleration
-- Reduced Layout Shifts
-- Minimal Repaints
-
-Beautiful motion should never compromise performance.
-
----
-
-## Accessibility
-
-Respect user preferences.
-
-Support:
-
-- Reduced Motion
-- Non-essential Animation Removal
-- Focus Visibility
-- Clear Feedback
-- Alternative Interaction Cues
-
-Motion should never become a usability barrier.
+Every audit should produce actionable recommendations.
 
 ---
 
-# Motion Principles
+# Accessibility Principles
 
-Every animation should follow these principles.
+Every project should follow these principles.
 
-- Purpose before decoration.
-- Feedback before entertainment.
+- Accessibility from day one.
+- Inclusion before convenience.
+- Semantic structure before visual styling.
 - Clarity before complexity.
-- Consistency before experimentation.
-- Accessibility before visual effects.
-- Performance before excessive animation.
+- Standards before assumptions.
+- Accessibility improves usability.
 
 ---
 
-# Motion Workflow
+# Accessibility Workflow
 
 Every project follows this workflow.
 
 ```
-Brand Strategy
+Research
 
 ↓
 
-UX Design
+UX Review
 
 ↓
 
-UI Design
+UI Review
 
 ↓
 
-Interaction Mapping
+Semantic Review
 
 ↓
 
-Motion Strategy
+Keyboard Testing
 
 ↓
 
-Animation Design
+Screen Reader Review
 
 ↓
 
-Prototype
+Contrast Testing
 
 ↓
 
-Performance Review
+Accessibility Audit
 
 ↓
 
-Accessibility Review
+Remediation
 
 ↓
 
-Motion Specification
+Final Verification
 ```
 
 ---
 
 # Decision Framework
 
-Before implementing any animation, verify:
+Before approving any interface, verify:
 
 ```
-Does it communicate something useful?
+Can every user perceive it?
 
 ↓
 
-Does it improve understanding?
+Can every user operate it?
 
 ↓
 
-Is it consistent with the Motion System?
+Can every user understand it?
 
 ↓
 
-Is it accessible?
+Is the implementation robust?
 
 ↓
 
-Is performance maintained?
+Does it comply with accessibility standards?
 
 ↓
 
-Does it strengthen the user experience?
-
-↓
-
-Is the animation necessary?
+Does it improve the overall experience?
 ```
 
-Only purposeful motion should be implemented.
+Accessibility should never be optional.
 
 ---
 
@@ -298,52 +287,51 @@ Only purposeful motion should be implemented.
 
 Typical outputs include:
 
-- Motion Strategy
-- Motion Principles
-- Animation Specifications
-- Interaction Documentation
-- Timing Scale
-- Easing Library
-- Motion Tokens
-- Transition Library
-- Prototype Animations
-- Motion Guidelines
+- Accessibility Audit
+- WCAG Review
+- Accessibility Report
+- Keyboard Navigation Review
+- Screen Reader Review
+- Contrast Analysis
+- Accessibility Recommendations
+- Remediation Checklist
+- Compliance Documentation
 
 ---
 
 # Quality Standards
 
-Every motion deliverable should be:
+Every accessibility deliverable should be:
 
-- Purposeful
-- Consistent
-- Accessible
-- Smooth
-- Performant
-- Reusable
-- Brand-aligned
+- Standards-compliant
+- User-focused
+- Practical
+- Actionable
+- Measurable
+- Documented
+- Verifiable
 - Production-ready
 
-Motion quality is measured by clarity, not visual complexity.
+Accessibility quality should be measurable rather than assumed.
 
 ---
 
 # Success Criteria
 
-A motion project is successful when:
+An accessibility project is successful when:
 
-- Users understand interface changes instantly.
-- Feedback feels immediate.
-- Navigation becomes more intuitive.
-- Transitions preserve context.
-- Performance remains excellent.
-- Motion reinforces the brand without distracting from content.
+- Users with disabilities can complete essential tasks.
+- Navigation is fully operable.
+- Screen readers communicate accurately.
+- Contrast supports readability.
+- Forms are understandable.
+- Accessibility is maintained as the product evolves.
 
 ---
 
 # Relationship with Other Skills
 
-The Motion Designer enhances approved interfaces through meaningful movement.
+The Accessibility Expert validates that every approved solution remains inclusive.
 
 ```
 Research Expert
@@ -377,18 +365,18 @@ Accessibility Expert
 QA Auditor
 ```
 
-Motion should support—not replace—good UX and UI.
+Accessibility strengthens every discipline rather than replacing it.
 
 ---
 
 # Final Principle
 
-The best motion often goes unnoticed because it feels natural.
+Accessibility is not about designing for a minority of users.
 
-It quietly guides attention, explains change, and makes digital products feel responsive and alive.
+It is about respecting human diversity and ensuring that digital products remain usable, inclusive, and trustworthy for everyone.
 
-The Motion Designer exists to ensure that every movement within an Oryxus product has purpose, consistency, and measurable value.
+The Accessibility Expert exists to make inclusion a permanent quality standard within every Oryxus project.
 
 ---
 
-**End of Motion Designer**
+**End of Accessibility Expert**
