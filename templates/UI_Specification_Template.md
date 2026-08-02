@@ -1,6 +1,6 @@
-# SEO STRATEGY TEMPLATE
+# UI SPECIFICATION TEMPLATE
 
-**Template:** SEO Strategy Document
+**Template:** UI Specification Document
 
 **Version:** 1.0.0
 
@@ -14,10 +14,8 @@
 |--------|-------|
 | Project | |
 | Client | |
-| Website | |
-| Industry | |
-| Target Market | |
-| Prepared By | |
+| Product | |
+| Designer | |
 | Version | |
 | Date | |
 
@@ -25,318 +23,344 @@
 
 # Executive Summary
 
-## SEO Objective
+## Project Overview
 
 -
 
-## Business Goals
+## Design Objectives
 
 -
 
-## Expected Outcomes
-
--
-
----
-
-# Business Overview
-
-## Business Description
-
--
-
-## Products & Services
-
--
-
-## Target Audience
-
--
-
-## Geographic Focus
+## Success Criteria
 
 -
 
 ---
 
-# Current SEO Performance
+# Design Principles
 
-| Metric | Current |
-|---------|----------|
-| Organic Traffic | |
-| Indexed Pages | |
-| Domain Authority | |
-| Monthly Leads | |
-| Average Ranking | |
+## Visual Goals
 
----
+-
 
-# Keyword Research
+## Brand Alignment
 
-## Primary Keywords
+-
 
-| Keyword | Volume | Difficulty | Intent |
-|----------|---------|------------|--------|
-| | | | |
-
----
-
-## Secondary Keywords
+## User Experience Goals
 
 -
 
 ---
 
-## Long-tail Keywords
+# Design Tokens
+
+## Color Palette
+
+| Token | Hex | Usage |
+|--------|-----|-------|
+| Primary | | |
+| Secondary | | |
+| Accent | | |
+| Success | | |
+| Warning | | |
+| Error | | |
+| Neutral | | |
+
+---
+
+## Typography
+
+| Element | Font | Size | Weight |
+|----------|------|------|--------|
+| H1 | | | |
+| H2 | | | |
+| H3 | | | |
+| Body | | | |
+| Caption | | | |
+
+---
+
+## Spacing System
+
+| Token | Value |
+|--------|-------|
+| XS | |
+| SM | |
+| MD | |
+| LG | |
+| XL | |
+
+---
+
+# Layout System
+
+## Desktop Layout
 
 -
 
 ---
 
-## Local Keywords
+## Tablet Layout
 
 -
 
 ---
 
-## Competitor Analysis
-
-| Competitor | Strengths | Weaknesses |
-|------------|-----------|------------|
-| | | |
-| | | |
-
----
-
-## Competitor Keywords
+## Mobile Layout
 
 -
 
 ---
 
-## Content Gap Analysis
+# Navigation
+
+## Primary Navigation
+
+-
+
+## Secondary Navigation
+
+-
+
+## Footer Navigation
 
 -
 
 ---
 
-# Search Intent Mapping
+# Components
 
-## Informational Pages
+## Buttons
+
+### Primary
+
+-
+
+### Secondary
+
+-
+
+### Ghost
 
 -
 
 ---
 
-## Commercial Pages
+## Forms
+
+### Input Fields
+
+-
+
+### Select Fields
+
+-
+
+### Textareas
+
+-
+
+### Validation States
 
 -
 
 ---
 
-## Transactional Pages
+## Cards
 
 -
 
 ---
 
-## Navigational Pages
+## Tables
 
 -
 
 ---
 
-# Website Architecture
-
-## URL Structure
+## Modals
 
 -
 
 ---
 
-## Navigation
+## Alerts
 
 -
 
 ---
 
-## Internal Linking
+## Tooltips
 
 -
 
 ---
 
-## Content Hierarchy
+## Loaders
 
 -
 
 ---
 
-# Technical SEO
+# Icons
 
-## Crawlability
-
--
-
-## Indexability
+## Icon Library
 
 -
 
-## XML Sitemap
+## Size Guidelines
 
 -
 
-## Robots.txt
-
--
-
-## Canonical URLs
-
--
-
-## Structured Data
-
--
-
-## Core Web Vitals
+## Usage Rules
 
 -
 
 ---
 
-# On-page SEO
+# Images & Media
 
-## Title Tags
-
--
-
-## Meta Descriptions
+## Photography Style
 
 -
 
-## Heading Structure
+## Illustrations
 
 -
 
-## Image Optimization
+## Icons
 
 -
 
-## Alt Text
-
--
-
-## Schema Markup
+## Video
 
 -
 
 ---
 
-# Content Strategy
+# Responsive Behaviour
 
-## Pillar Pages
+| Device | Notes |
+|----------|-------|
+| Mobile | |
+| Tablet | |
+| Laptop | |
+| Desktop | |
+
+---
+
+# Interaction States
+
+## Default
+
+-
+
+## Hover
+
+-
+
+## Focus
+
+-
+
+## Active
+
+-
+
+## Disabled
+
+-
+
+## Loading
+
+-
+
+## Success
+
+-
+
+## Error
 
 -
 
 ---
 
-## Topic Clusters
+# Accessibility
+
+## Contrast Ratio
+
+-
+
+## Focus Indicators
+
+-
+
+## Keyboard Navigation
+
+-
+
+## ARIA Guidelines
 
 -
 
 ---
 
-## Blog Strategy
+# Animation
+
+## Page Transitions
+
+-
+
+## Hover Animations
+
+-
+
+## Loading Animations
+
+-
+
+## Motion Duration
 
 -
 
 ---
 
-## Landing Pages
+# Assets
+
+## Logos
+
+-
+
+## Icons
+
+-
+
+## Images
+
+-
+
+## Fonts
 
 -
 
 ---
 
-# Local SEO
+# Developer Notes
 
-## Google Business Profile
-
--
-
----
-
-## NAP Consistency
+## CSS Variables
 
 -
 
----
-
-## Local Citations
+## Component Tokens
 
 -
 
----
-
-## Reviews Strategy
+## Responsive Rules
 
 -
 
----
-
-# Backlink Strategy
-
-## Existing Backlinks
-
--
-
----
-
-## Link Opportunities
-
--
-
----
-
-## Authority Building
-
--
-
----
-
-# Performance Monitoring
-
-| KPI | Current | Target |
-|------|---------|--------|
-| Organic Traffic | | |
-| Keyword Rankings | | |
-| CTR | | |
-| Conversion Rate | | |
-| Bounce Rate | | |
-
----
-
-# Implementation Roadmap
-
-## Phase 1 (0–30 Days)
-
--
-
----
-
-## Phase 2 (1–3 Months)
-
--
-
----
-
-## Phase 3 (3–6 Months)
-
--
-
----
-
-## Phase 4 (6–12 Months)
+## Export Assets
 
 -
 
@@ -344,15 +368,13 @@
 
 # Deliverables
 
-- Keyword Research
-- Competitor Analysis
-- SEO Audit
-- Technical SEO Plan
-- Content Strategy
-- Local SEO Plan
-- Backlink Strategy
-- SEO Roadmap
-- KPI Dashboard
+- UI Design
+- Component Specifications
+- Design Tokens
+- Responsive Specifications
+- Accessibility Notes
+- Animation Guidelines
+- Developer Notes
 
 ---
 
@@ -360,9 +382,9 @@
 
 | Role | Name | Signature | Date |
 |------|------|-----------|------|
-| SEO Specialist | | | |
-| Project Lead | | | |
-| Client | | | |
+| UI Designer | | | |
+| UX Lead | | | |
+| Frontend Lead | | | |
 
 ---
 
@@ -374,4 +396,4 @@
 
 ---
 
-**End of SEO Strategy Template**
+**End of UI Specification Template**
